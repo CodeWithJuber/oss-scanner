@@ -1,0 +1,10 @@
+# hikmah-stack — deterministic Rust memory/reliability kernel for AI agents.
+repo: https://github.com/CodeWithJuber/hikmah-stack#main
+
+primary_contact: weummat@gmail.com
+
+homepage: https://github.com/CodeWithJuber/hikmah-stack
+
+disabled: false
+
+# Dockerfile and threat model live here, next to project.yaml.
