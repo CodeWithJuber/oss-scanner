@@ -1,0 +1,10 @@
+# forgekit — shared memory, impact analysis, and guardrail hooks for AI coding agents.
+repo: https://github.com/CodeWithJuber/forgekit#main
+
+primary_contact: weummat@gmail.com
+
+homepage: https://github.com/CodeWithJuber/forgekit
+
+disabled: false
+
+# Dockerfile and threat model live here, next to project.yaml.
